@@ -19,4 +19,4 @@
 
 ## ⚡ GitHub Stats
 
-![Aashita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashitanegii&show_icons=true&theme=tokyonight&include_all_commits=true)
+[![Aashita's GitHub Stats](https://github-stats-extended.vercel.app/api?username=aashitanegii)](https://github.com/stats-organization/github-stats-extended)
