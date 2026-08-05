@@ -14,7 +14,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀
 ```
-
 ## Stats
 
 [![Aashita's GitHub Stats](https://github-stats-extended.vercel.app/api?username=aashitanegii)](https://github.com/stats-organization/github-stats-extended)
