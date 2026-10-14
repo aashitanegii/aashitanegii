@@ -20,7 +20,7 @@ aashitanegii@github
 - **CrowdCommand** — | 🏆 DEV Weekend Challenge Winner
 - **ELARA** — | Rank 72 / 20,100+ — PromptWars
 - **FairRUN** — | 🏅 5th Place National Finalist — Bharat Shiksha Hackathon
-- **Summer Bug Smash** — 🏆 Winner, Major League Hacking (MLH) | Built, competed, and shipped
+- **Summer Bug Smash** — 🏆 Winner in Smash Stories
 - **GirlScript Summer of Code (GSSoC) 2025** — Open-source contributor
 
 ## 📊 GitHub Stats
